@@ -1,8 +1,8 @@
 h1 {
     text-align: center;
 }
-.index {
-    border: 3px solid black ;
+#ind {
+    border: 3px solid black;
     margin: 0px;
 }
 img {
@@ -15,7 +15,7 @@ img {
     display:grid;
     grid-template-columns: 1fr 1fr;
 }
-#body {
+p #body {
     padding-left: 20px;
     margin: 0px;
     padding-top: 25%;
