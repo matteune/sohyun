@@ -15,7 +15,7 @@ img {
     display:grid;
     grid-template-columns: 1fr 1fr;
 }
-p #body {
+div #body {
     padding-left: 20px;
     margin: 0px;
     padding-top: 25%;
@@ -28,7 +28,9 @@ p #body {
     img {
         border-right: none;
     }
-    #body {
-        padding: 0px;
+    div #body {
+        padding-top: 0%;
+        padding-bottom: 0%;
+        padding-left: 0px;
     }
 }
